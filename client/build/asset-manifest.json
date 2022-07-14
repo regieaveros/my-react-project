@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.eb677b21.css",
+    "main.js": "./static/js/main.5d7edec5.js",
+    "static/media/material_logo.ico": "./static/media/material_logo.7dc3314c6b86280376b1.ico",
+    "static/media/Roboto-Black.ttf": "./static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
+    "static/media/ReemKufi-Regular.ttf": "./static/media/ReemKufi-Regular.20f310fc520bd464b8d5.ttf",
+    "static/media/Muli.ttf": "./static/media/Muli.4829cf81e2b513fc1b64.ttf",
+    "static/media/photo.png": "./static/media/photo.647123176cd30537b2a1.png",
+    "static/media/default.png": "./static/media/default.e7159f2f0a8ff5572ff0.png",
+    "static/media/google.svg": "./static/media/google.bbce75f8c7f6cd3d1c0db56d81258450.svg",
+    "index.html": "./index.html",
+    "static/media/logo.svg": "./static/media/logo.d0e27845d17504d0b67a493137fd8380.svg",
+    "main.eb677b21.css.map": "./static/css/main.eb677b21.css.map",
+    "main.5d7edec5.js.map": "./static/js/main.5d7edec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb677b21.css",
+    "static/js/main.5d7edec5.js"
+  ]
+}

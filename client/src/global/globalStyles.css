@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'Reem Kufi';
+  src: local('Reem Kufi'), url(../fonts/ReemKufi-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Muli';
+  src: local('Muli'), url(../fonts/Muli.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto Black';
+  src: local('Roboto Black'), url(../fonts/Roboto-Black.ttf) format('truetype');
+}
+
+.fr-popup {
+  z-index: 2147483635 !important;
+}
+
+.fr-popup.fr-hidden {
+  -webkit-opacity: 1 !important;
+  -moz-opacity: 1 !important;
+  opacity: 1 !important;
+}
+
+.fr-box.fr-basic .fr-element {
+  max-height: 160px !important;
+}
+
+.fr-quick-insert {
+  margin-left: 25px;
+}
+
+@media (max-width: 767px) {
+  .fr-box.fr-basic .fr-element {
+    max-height: 140px !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .eBfQpo {
+    width: 28px !important;
+    height: 4px !important;
+  }
+
+  .eBfQpo::before, .eBfQpo::after {
+      width: 28px !important;
+      height: 4px !important;
+  }
+
+  .bZxRox {
+    width: 29px !important;
+  }
+}
+
+@media (max-width: 420px) {
+  .fr-quick-insert.fr-visible {
+    left: -50px !important;
+  }
+
+}
+
+@media (max-width: 321px) {
+  .fr-quick-insert.fr-visible {
+    left: -45px !important;
+  }
+
+}
+
+@media (max-width: 361px) {
+  .fr-box.fr-basic .fr-element {
+    max-height: 120px !important;
+  }
+
+}
+
+p.MuiTypography-root.MuiTypography-body2.MuiTypography-colorTextSecondary {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  text-align: justify;
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(180, 180, 180);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(172, 171, 171);
+}
+
+.MuiDrawer-paperAnchorTop {
+  top: 74px !important;
+}
